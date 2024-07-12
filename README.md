@@ -1,4 +1,4 @@
-<h3 align="center">👋 Hello World! I'm Mason Zeng</h3>
+<h3 align="center">👋 Hey Everyone! I'm Mason Zeng</h3>
 
 ---
 
