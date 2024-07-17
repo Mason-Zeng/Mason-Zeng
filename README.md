@@ -6,7 +6,7 @@
 <br>
 
 ## ✨ BIO
-+ 🔭 I’m currently working on a personal project called Armory, a web application enabling users to categorize scripture by topics for easier access during times of need
++ 🔭 I’m currently working on a personal project called Armory, a web application enabling users to categorize scripture by topics for easier access during times of need, and revamping my church's website using React
 + 💻 My goal is to become a Senior Software Developer
 + 🧐 I'm interested in everything Full Stack Development
 + 🌱 I'm Currently learning React and Fast API
