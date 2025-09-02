@@ -6,7 +6,7 @@
 <br>
 
 ## ✨ BIO
-+ 🔭 I’m currently working as a web developer for Brooklyn Community Christian Church. Feel free to check them out here! [(https://bccc-ny.org/)]
++ 🔭 I’m currently working as a web developer for Brooklyn Community Christian Church. Check them out here! [https://bccc-ny.org/]
 + 💻 My goal is to become a Senior Software Developer
 + 🧐 I'm interested in everything Full Stack Development
 + 🌱 I'm Currently learning cloud computing through AWS
