@@ -9,7 +9,7 @@
 + 🔭 I’m currently working as a web developer for Brooklyn Community Christian Church. Check them out here! https://bccc-ny.org/
 + 💻 My goal is to become a Senior Software Developer
 + 🧐 I'm interested in everything Full Stack Development
-+ 🌱 I'm Currently learning cloud computing through AWS
++ 🌱 I'm currently learning cloud computing through AWS
 + ✝️ I'm a devout Christian. Feel free to talk to me about anything biblical
 + 📫 You can reach me at mz1498@rit.edu
 
