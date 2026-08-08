@@ -6,11 +6,10 @@
 <br>
 
 ## ✨ BIO
-+ 🔭 I’m currently working as a web developer for Brooklyn Community Christian Church. Check them out here! https://bccc-ny.org/
-+ 💻 My goal is to become a Senior Software Developer
-+ 🧐 I'm interested in everything Full Stack Development
++ 🔭 I’m currently working as a Security Operations Engineer for Amplify Education.
++ 💻 My goal is to become a Senior Devops/Cloud Engineer
 + 🌱 I'm currently learning cloud computing through AWS
-+ ✝️ I'm a devout Christian. Feel free to talk to me about anything biblical
++ ✝️ I'm a devout Christian. Feel free to talk to me about anything biblical. Check out my church here! https://bccc-ny.org/
 + 📫 You can reach me at mz1498@rit.edu
 
 <br>
